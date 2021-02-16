@@ -1,0 +1,1 @@
+#include <stdio.h> int main() { printf("Believe it or not, this is a complete C program.\n"); return 0; }
